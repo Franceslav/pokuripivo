@@ -1,2 +1,3 @@
 # pokuripivo
-application for connoisseurs of beer and marijuana
+application for connoisseurs of beer
+
